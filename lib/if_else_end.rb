@@ -1,5 +1,6 @@
-if Time.now.to_i % 2 == 0
-  puts Even!
+
+if the_time % 2 == 0
+  puts "Even!"
 else
-  puts Odd!
+  puts "Odd!"
 end
